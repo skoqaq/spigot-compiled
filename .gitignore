@@ -19,6 +19,6 @@ hs_err_pid*
 apache-maven-3.6.0/
 BuildData/
 Bukkit/
-CraftBukkit/
 Spigot/
 work/
+CraftBukkit
